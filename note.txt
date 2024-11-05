@@ -1,0 +1,5 @@
+JavaScript Excecution Context
+
+ ** JavaScript does not support multi-threading as the JavaScript interpreter in the browser is single-threaded.
+ 
+Multithreading is the ability of any program to execute multiple threads simultaneously. As we know JavaScript is a single-threaded programming language, which means it has a single thread that handles all the execution sequentially. Single-threaded means one line of code run at once. Originally, Javascript is single-threaded because it was just used in web browser scripting language for a single user but nowadays it evolve into something bigger and make the computation very huge.
